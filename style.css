@@ -1,3 +1,12 @@
 h1,p{
     color: rgb(0, 84, 180);
 }
+
+img{
+    width: 100px;
+}
+
+
+button{
+    background-color: red;
+}
